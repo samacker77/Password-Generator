@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get the script running
 Installing Python
 
 ```
-[Python3.7](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe) - Make sure to check the ADD TO PATH checkbox
+* [Python3.7](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe) - Make sure to check the ADD TO PATH checkbox
 ```
 
 Install pyperclip
