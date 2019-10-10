@@ -1,5 +1,6 @@
 import random
 import pyperclip
+import numpy as np
 from tkinter import *
 from tkinter.ttk import *
 def low():
