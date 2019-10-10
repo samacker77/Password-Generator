@@ -2,6 +2,8 @@ import random
 import pyperclip
 from tkinter import *
 from tkinter.ttk import *
+import numpy as np 
+import pandas as pd
 def low():
     entry.delete(0, END)
     length = var1.get()
